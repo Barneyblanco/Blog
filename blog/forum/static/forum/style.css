@@ -1,0 +1,17 @@
+body{
+	background-color: #fff;
+}
+
+.navbar{
+	border-radius: 0;
+}
+
+.navbar-brand{
+	font-family: 'satisfy' cursive;
+}
+
+h1{
+	display: block;
+	color: blue;
+	text-align: center;
+}
